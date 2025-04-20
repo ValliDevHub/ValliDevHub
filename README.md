@@ -19,7 +19,7 @@
 </div>
 
 [![JavaScript Developer](https://img.shields.io/badge/-JavaScript%20Developer-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/ValliDevHub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
 
 I'm a passionate JavaScript developer specializing in:
 - 🌐 Frontend development (React, Vue)
