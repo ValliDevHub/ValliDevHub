@@ -1,7 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ValliDevHub&color=blueviolet&style=flat-square)
-<p align="center">
-  <img src="https://wakatime.com/badge/user/{9f353591ed8c}.svg" alt="WakaTime"/>
-</p>
+
 <h1 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="10" style="color: #FFD700; text-shadow: 2px 2px 4px #000000;">
     ✨ Hello, I'm Valli! ✨ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
