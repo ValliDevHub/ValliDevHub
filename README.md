@@ -12,7 +12,7 @@
   <img src="" width="150" style="border-radius: 50%;">
   
   ### 🌟 About Me
-  ✌️ Passionate about open-source & mentoring  
+  ✌️ Passionate about open-source
   ❤️ Building tools to simplify developer lives  
   📧 **Email**: [valli9716@gmail.com](mailto:valli9716@gmail.com)  
   💬 **Let's connect**: [Twitter](#) | [LinkedIn](#) | [Discord](#) |
